@@ -1,0 +1,14 @@
+C:\Users\nruiz\OneDrive\Desktop\Tipos de clases c#\clase normal con interfaz\bin\Debug\net8.0\clase normal con interfaz.exe
+C:\Users\nruiz\OneDrive\Desktop\Tipos de clases c#\clase normal con interfaz\bin\Debug\net8.0\clase normal con interfaz.deps.json
+C:\Users\nruiz\OneDrive\Desktop\Tipos de clases c#\clase normal con interfaz\bin\Debug\net8.0\clase normal con interfaz.runtimeconfig.json
+C:\Users\nruiz\OneDrive\Desktop\Tipos de clases c#\clase normal con interfaz\bin\Debug\net8.0\clase normal con interfaz.dll
+C:\Users\nruiz\OneDrive\Desktop\Tipos de clases c#\clase normal con interfaz\bin\Debug\net8.0\clase normal con interfaz.pdb
+C:\Users\nruiz\OneDrive\Desktop\Tipos de clases c#\clase normal con interfaz\obj\Debug\net8.0\clase normal con interfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nruiz\OneDrive\Desktop\Tipos de clases c#\clase normal con interfaz\obj\Debug\net8.0\clase normal con interfaz.AssemblyInfoInputs.cache
+C:\Users\nruiz\OneDrive\Desktop\Tipos de clases c#\clase normal con interfaz\obj\Debug\net8.0\clase normal con interfaz.AssemblyInfo.cs
+C:\Users\nruiz\OneDrive\Desktop\Tipos de clases c#\clase normal con interfaz\obj\Debug\net8.0\clase normal con interfaz.csproj.CoreCompileInputs.cache
+C:\Users\nruiz\OneDrive\Desktop\Tipos de clases c#\clase normal con interfaz\obj\Debug\net8.0\clase normal con interfaz.dll
+C:\Users\nruiz\OneDrive\Desktop\Tipos de clases c#\clase normal con interfaz\obj\Debug\net8.0\refint\clase normal con interfaz.dll
+C:\Users\nruiz\OneDrive\Desktop\Tipos de clases c#\clase normal con interfaz\obj\Debug\net8.0\clase normal con interfaz.pdb
+C:\Users\nruiz\OneDrive\Desktop\Tipos de clases c#\clase normal con interfaz\obj\Debug\net8.0\clase normal con interfaz.genruntimeconfig.cache
+C:\Users\nruiz\OneDrive\Desktop\Tipos de clases c#\clase normal con interfaz\obj\Debug\net8.0\ref\clase normal con interfaz.dll
