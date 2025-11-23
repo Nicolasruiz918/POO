@@ -1,4 +1,4 @@
-// Libro.go
+
 package main
 
 import "fmt"
@@ -16,7 +16,7 @@ type LibroReal struct {
 	libro
 }
 
-func NewLibroReal(titulo string) Libro { // Mayúscula
+func NewLibroReal(titulo string) Libro { 
 	return LibroReal{libro{titulo, "Desconocido"}}
 }
 
