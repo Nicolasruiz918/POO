@@ -18,7 +18,7 @@ func main() {
 	eOriginal.Estudiar()
 	eCopia.Estudiar()
 
-	// Ahora sí funciona:
+	
 	fmt.Printf("Producto: %s - $%.0f\n", pr1.Nombre(), pr1.Precio())
 	fmt.Printf("Descuento: $%.0f\n", pr1.CalcularDescuento())
 }
