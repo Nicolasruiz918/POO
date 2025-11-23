@@ -1,4 +1,4 @@
-// Estudiante.go
+
 package main
 
 import "fmt"
@@ -16,11 +16,11 @@ type EstudianteReal struct {
 	estudiante
 }
 
-func NewEstudianteReal(nombre string, grado int) Estudiante { // Mayúscula
+func NewEstudianteReal(nombre string, grado int) Estudiante { 
 	return EstudianteReal{estudiante{nombre, grado}}
 }
 
-func NewEstudianteRealFromOtro(otro Estudiante) Estudiante { // Mayúscula
+func NewEstudianteRealFromOtro(otro Estudiante) Estudiante { 
 	e := otro.(EstudianteReal)
 	return NewEstudianteReal(e.Nombre, e.Grado)
 }
