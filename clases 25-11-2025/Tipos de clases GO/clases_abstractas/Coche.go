@@ -16,7 +16,7 @@ type CocheReal struct {
 	coche
 }
 
-func NewCocheReal() Coche { // Mayúscula
+func NewCocheReal() Coche {
 	return CocheReal{coche{"Desconocida", 0}}
 }
 
