@@ -1,3 +1,0 @@
-interface ICurso {
-    void infoCurso();
-}

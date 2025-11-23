@@ -1,3 +1,0 @@
-interface ILibro {
-    void mostrarLibro();
-}

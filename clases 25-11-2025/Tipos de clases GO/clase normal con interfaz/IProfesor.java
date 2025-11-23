@@ -1,3 +1,0 @@
-interface IProfesor {
-    void mostrarProfesor();
-}

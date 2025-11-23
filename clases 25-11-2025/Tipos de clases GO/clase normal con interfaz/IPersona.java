@@ -1,3 +1,0 @@
-interface IPersona {
-    void saludar();
-}

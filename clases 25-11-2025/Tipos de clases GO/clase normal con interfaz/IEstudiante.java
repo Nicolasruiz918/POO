@@ -1,3 +1,0 @@
-interface IEstudiante {
-    void mostrarInfo();
-}
